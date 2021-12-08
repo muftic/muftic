@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-My name is Marijan, and in 2020 I decided to make a career in speaking with machines.
+My name is Marijan, and in 2020 I decided to make a career programming.
 First, I took a year to study JavaScript, then I moved from Volosko, Croatia to Amsterdam, Netherlands and enrolled in [Codaisseur's](https://codaisseur.com/) Full-Stack JavaScript Academy which gave me a _massive_ boost to both knowledge and experience in programming and web-development.
 
 ### Tech stack experience:
