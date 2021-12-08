@@ -1,7 +1,11 @@
 ### Hello there! 👋
 
-My name is Marijan, and in 2020 I decided to make a career programming.
+My name is Marijan, and in 2020 I decided to make a career in programming.
 First, I took a year to study JavaScript, then I moved from Volosko, Croatia to Amsterdam, Netherlands and enrolled in [Codaisseur's](https://codaisseur.com/) Full-Stack JavaScript Academy which gave me a _massive_ boost to both knowledge and experience in programming and web-development.
+
+Bit of a jack of all trades, master of none; consistently curious and never bored, I have many interests and hobbies, some of those are (in random order) : technology old/new, chess/video/board/card games , comedy, movies, astronomy, basketball, juggling, reading, global domination, music (live especially) + some I forgot to mention and some that haven't been discovered yet.
+
+I am bad at styling/designing/selling.
 
 ### Tech stack experience:
 
