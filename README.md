@@ -1,11 +1,5 @@
 ### Hello there! 👋
-
-My name is Marijan, and in 2020 I decided to make a career in programming.
-First, I took a year to study JavaScript, then I moved from Volosko, Croatia to Amsterdam, Netherlands and enrolled in [Codaisseur's](https://codaisseur.com/) Full-Stack JavaScript Academy which gave me a _massive_ boost to both knowledge and experience in programming and web-development.
-
-Bit of a jack of all trades, master of none; consistently curious and never bored, I have many interests and hobbies, some of those are (in random order) : technology old/new, chess/video/board/card games , comedy, movies, astronomy, basketball, juggling, reading, global domination, music (live especially) + some I forgot to mention and some that haven't been discovered yet.
-
-I am bad at styling/designing/selling.
+Curious Full-stack web-developer
 
 ### Tech stack experience:
 
@@ -23,7 +17,7 @@ I am bad at styling/designing/selling.
   
  and currently I'm learning:
   <p>
-  Machine learning - for now I've used <a href="https://ml5js.org/">ml5<a> for image classification(Mobile net's model), and am interested in training my own model.
+  Machine learning - for now I've used <a href="https://ml5js.org/">ml5<a> for image classification(Mobile net's model), and am taking courses in mz free time.
   </p><p>
  <a href="https://www.typescriptlang.org/">TypeScript<a>
   </p> <a href="https://reactnative.dev/">React Native<a>
